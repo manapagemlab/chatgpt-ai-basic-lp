@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="40代・50代のためのChatGPT・AI基礎講座">
+  <rect width="1200" height="630" fill="#F7F3ED"/>
+  <rect x="74" y="72" width="1052" height="486" fill="#FCFAF6" stroke="#DDD3C7" stroke-width="3"/>
+  <rect x="850" y="116" width="190" height="270" fill="#EFE8DF" stroke="#8EA5AF" stroke-width="3" transform="rotate(4 945 251)"/>
+  <rect x="760" y="360" width="270" height="86" fill="#FCFAF6" stroke="#DDD3C7" stroke-width="3" transform="rotate(-3 895 403)"/>
+  <text x="120" y="170" font-family="sans-serif" font-size="28" fill="#536D78" letter-spacing="4">CHATGPT BASIC CLASS</text>
+  <text x="120" y="285" font-family="serif" font-size="68" fill="#2F2A26">いまさら、ではなく。</text>
+  <text x="120" y="380" font-family="serif" font-size="68" fill="#2F2A26">いまだから、<tspan fill="#C97D5D">AI</tspan>を。</text>
+  <text x="120" y="472" font-family="sans-serif" font-size="30" fill="#746C64">40代・50代のためのChatGPT・AI基礎講座</text>
+</svg>

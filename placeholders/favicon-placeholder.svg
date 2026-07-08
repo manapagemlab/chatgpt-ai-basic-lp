@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="AI基礎講座">
+  <rect width="64" height="64" fill="#F7F3ED"/>
+  <rect x="10" y="10" width="44" height="44" fill="#FCFAF6" stroke="#C97D5D" stroke-width="3"/>
+  <text x="32" y="39" text-anchor="middle" font-family="serif" font-size="18" fill="#2F2A26">AI</text>
+</svg>
